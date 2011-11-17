@@ -45,7 +45,7 @@ a { outline: none; }
 ---------------------------------------------------------------------------- */
 
 body {
-  font-family: "Monaco", "Courier New", monospace;
+  font-family: Helvetica, Arial, Freesans, Clean, sans-serif;
   font-size: 12px;
   line-height: 1.5;
   margin: 0;
@@ -315,6 +315,7 @@ th .header {
 }
 
 .page_body {
+  font-family: "Monaco", "Courier New", monospace;
   line-height: 1.4em;
   width: 94%;
   background: #f8f8f8;
@@ -329,6 +330,7 @@ th .header {
   border: 1px solid #d8d8d8;
   padding: 5px;
   margin: 0 auto 15px auto;
+  font-family: "Monaco", "Courier New", monospace;
 }
 
 .page_body > .list_head {
